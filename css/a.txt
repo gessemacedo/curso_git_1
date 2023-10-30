@@ -1,2 +1,4 @@
 alterando arquivo para entender como funciona o git pull
 testando alterações para mapear e analisar o log fo git
+
+git reset
